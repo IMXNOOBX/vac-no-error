@@ -8,6 +8,8 @@ VAC Error Fix Tool is a utility designed to resolve VAC (Valve Anti-Cheat) error
 
 
 https://img.youtube.com/vi/nkHsjWlUsgI/dmaxresdefault.jpg
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nkHsjWlUsgI/0.jpg)](https://www.youtube.com/watch?v=nkHsjWlUsgI)
+
 ## How it Works
 
 The VAC Error Fix Tool performs the following steps to resolve the VAC error:
