@@ -1,7 +1,7 @@
 #include <windows.h>
 #include <tlhelp32.h>
 
-#define size(arr) sizeof(arr) / sizeof(arr[0])
+#define sizear(arr) sizeof(arr) / sizeof(arr[0])
 
 namespace proc {
 	const char* steamProcesses[] = { "csgo.exe", "Steam.exe", "SteamClient.exe", "SteamService.exe", "SteamWebHelper.exe", "steamwebhelper.exe" };
